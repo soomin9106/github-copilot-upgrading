@@ -1,1 +1,5 @@
-# 복사된 legacy의 MANIFEST.in
+include setup.py
+include distribute_setup.py
+include guachi/tests/*
+include docs/*
+
